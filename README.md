@@ -1,5 +1,5 @@
 # Exploring Telephone Survey Health Data
-R Markdown notebook using [ggplot2](https://ggplot2.tidyverse.org/) for exploring health data collected by the CDC from telephone surveys. as part of [Duke University's Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro) course.
+Jupyter notebook in R using [ggplot2](https://ggplot2.tidyverse.org/) for exploring health data collected by the CDC from telephone surveys. as part of [Duke University's Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro) course.
 
 ## Release History
 
